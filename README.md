@@ -4,28 +4,30 @@ Welcome to **Coin Platform 2**, a minimalist cryptocurrency platform designed to
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Motivation](#motivation)
-- [Project Structure](#project-structure)
-  - [Overview](#overview)
-  - [Components](#components)
-- [Building the Project](#building-the-project)
-  - [Prerequisites](#prerequisites)
-  - [Setup Instructions](#setup-instructions)
-- [Detailed Component Descriptions](#detailed-component-descriptions)
-  - [Common Utilities](#common-utilities)
-  - [Cryptography Module](#cryptography-module)
-  - [Networking Module](#networking-module)
-  - [Storage Module](#storage-module)
-  - [Time Chain](#time-chain)
-  - [Value Chain](#value-chain)
-  - [Consensus Mechanisms](#consensus-mechanisms)
-  - [Node Implementation](#node-implementation)
-  - [Configuration](#configuration)
-  - [Tools](#tools)
-- [Running the Node](#running-the-node)
-- [Contributing](#contributing)
-- [License](#license)
+- [Coin Platform 2](#coin-platform-2)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Motivation](#motivation)
+  - [Project Structure](#project-structure)
+    - [Overview](#overview)
+    - [Components](#components)
+  - [Building the Project](#building-the-project)
+    - [Prerequisites](#prerequisites)
+    - [Setup Instructions](#setup-instructions)
+  - [Detailed Component Descriptions](#detailed-component-descriptions)
+    - [Common Utilities](#common-utilities)
+    - [Cryptography Module](#cryptography-module)
+    - [Networking Module](#networking-module)
+    - [Storage Module](#storage-module)
+    - [Time Chain](#time-chain)
+    - [Value Chain](#value-chain)
+    - [Consensus Mechanisms](#consensus-mechanisms)
+    - [Node Implementation](#node-implementation)
+    - [Configuration](#configuration)
+    - [Tools](#tools)
+  - [Running the Node](#running-the-node)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 
@@ -281,4 +283,4 @@ When contributing, please:
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](LICENSE.md).
