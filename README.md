@@ -106,8 +106,8 @@ Ensure you have the following installed on your system:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/brakmic/coin_platform2.git
-   cd coin_platform2
+   git clone https://github.com/brakmic/coin-platform-2.git
+   cd coin-platform-2
    ```
 
 2. **Initialize and Update Submodules**
