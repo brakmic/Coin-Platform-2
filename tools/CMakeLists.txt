@@ -1,0 +1,2 @@
+add_subdirectory(keygen)
+add_subdirectory(genesis_generator)
