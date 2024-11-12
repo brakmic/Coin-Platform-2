@@ -2,6 +2,8 @@
 
 Welcome to **Coin Platform 2**, a minimalist cryptocurrency platform designed to explore and demonstrate the core concepts of blockchain technology. This project aims to provide a simplified yet functional implementation of a blockchain network, including consensus mechanisms, networking, cryptography, and storage systems.
 
+![coin_platform_2](./gifs/coin_platform_2.gif)
+
 ## Table of Contents
 
 - [Coin Platform 2](#coin-platform-2)
